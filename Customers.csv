@@ -1,0 +1,61 @@
+CustomerID,CustomerName,Segment,Region,City,SignupDate,HasSmartMeter,AcquisitionChannel
+C001,Minoa Market 1,Industrial,Eastern Macedonia & Thrace,Komotini,2022-05-06,Yes,Partner
+C002,Metro Labs 2,SME,Central Macedonia,Kalamaria,2023-04-05,No,Branch
+C003,Athena Motors 3,Small Business,Crete,Agios Nikolaos,2024-05-02,Yes,Branch
+C004,Aegean Bakery 4,SME,Western Greece,Agrinio,2021-05-17,Yes,Partner
+C005,Cretan Fresh 5,Small Business,Central Macedonia,Katerini,2023-12-23,Yes,Sales Agent
+C006,Minoa Market 6,Residential,Thessaly,Volos,2024-06-05,No,Partner
+C007,Ionian Plastics 7,Small Business,Attica,Athens,2024-06-08,Yes,Branch
+C008,Minoa Market 8,Residential,Eastern Macedonia & Thrace,Kavala,2023-06-15,No,Partner
+C009,Urban Nest 9,Small Business,Western Greece,Patras,2024-06-07,No,Sales Agent
+C010,Pelagos Hotel 10,SME,Peloponnese,Corinth,2022-10-09,Yes,Branch
+C011,Delta Print 11,Residential,Central Macedonia,Thessaloniki,2021-02-13,No,Sales Agent
+C012,Urban Nest 12,Residential,Thessaly,Karditsa,2024-06-09,No,Website
+C013,Urban Nest 13,Small Business,Peloponnese,Tripoli,2022-02-25,No,Call Center
+C014,Ionian Plastics 14,Small Business,Attica,Piraeus,2021-08-12,Yes,Website
+C015,Aegean Bakery 15,SME,Peloponnese,Tripoli,2024-04-07,Yes,Partner
+C016,Olive Route 16,Small Business,Eastern Macedonia & Thrace,Drama,2021-11-20,No,Call Center
+C017,Ionian Plastics 17,Small Business,Western Greece,Pyrgos,2021-08-03,Yes,Call Center
+C018,Aegean Bakery 18,Industrial,Eastern Macedonia & Thrace,Alexandroupoli,2022-04-14,Yes,Website
+C019,Blue Harbor Homes 19,Industrial,Eastern Macedonia & Thrace,Komotini,2024-11-17,Yes,Partner
+C020,Aegean Bakery 20,SME,Thessaly,Volos,2021-01-11,Yes,Call Center
+C021,Metro Labs 21,SME,Crete,Rethymno,2024-12-22,Yes,Partner
+C022,Metro Labs 22,SME,Attica,Kallithea,2022-03-13,Yes,Call Center
+C023,NorthWind Logistics 23,SME,Crete,Agios Nikolaos,2023-04-07,Yes,Website
+C024,Blue Harbor Homes 24,Small Business,Crete,Agios Nikolaos,2021-01-01,Yes,Branch
+C025,Ionian Plastics 25,Residential,Peloponnese,Kalamata,2021-02-11,No,Branch
+C026,Thessaly Dairy 26,SME,Attica,Marousi,2022-07-15,No,Branch
+C027,Urban Nest 27,SME,Eastern Macedonia & Thrace,Alexandroupoli,2024-09-16,No,Sales Agent
+C028,Blue Harbor Homes 28,Residential,Eastern Macedonia & Thrace,Kavala,2021-04-01,No,Branch
+C029,Sunrise Apartments 29,Industrial,Peloponnese,Tripoli,2023-07-25,Yes,Branch
+C030,Acropolis Studio 30,Small Business,Attica,Athens,2022-02-22,Yes,Call Center
+C031,Helios Textiles 31,SME,Central Macedonia,Thessaloniki,2022-04-22,Yes,Call Center
+C032,Acropolis Studio 32,SME,Attica,Kallithea,2022-02-09,No,Website
+C033,Blue Harbor Homes 33,Residential,Western Greece,Agrinio,2022-08-12,Yes,Call Center
+C034,Ionian Plastics 34,Residential,Thessaly,Larissa,2022-02-22,Yes,Partner
+C035,Helios Textiles 35,SME,Eastern Macedonia & Thrace,Kavala,2021-05-04,No,Website
+C036,Green Corner Cafe 36,Industrial,Crete,Chania,2021-06-24,Yes,Partner
+C037,Orion Clinic 37,Residential,Central Macedonia,Kalamaria,2024-02-01,No,Website
+C038,Attica Foods 38,Small Business,Western Greece,Agrinio,2021-06-02,Yes,Sales Agent
+C039,Urban Nest 39,Industrial,Thessaly,Trikala,2023-07-07,Yes,Branch
+C040,Orion Clinic 40,SME,Peloponnese,Kalamata,2024-05-05,No,Website
+C041,Aegean Bakery 41,SME,Thessaly,Larissa,2024-08-09,No,Sales Agent
+C042,Ionian Plastics 42,Industrial,Crete,Heraklion,2024-10-17,Yes,Sales Agent
+C043,Pelagos Hotel 43,SME,Western Greece,Pyrgos,2021-05-12,Yes,Call Center
+C044,Aegean Bakery 44,Small Business,Central Macedonia,Thessaloniki,2021-10-19,Yes,Website
+C045,Green Corner Cafe 45,Small Business,Western Greece,Patras,2022-06-26,Yes,Branch
+C046,Helios Textiles 46,Residential,Central Macedonia,Kalamaria,2023-04-13,No,Partner
+C047,Helios Textiles 47,Small Business,Eastern Macedonia & Thrace,Alexandroupoli,2021-09-26,Yes,Sales Agent
+C048,Attica Foods 48,Industrial,Eastern Macedonia & Thrace,Alexandroupoli,2022-05-25,Yes,Branch
+C049,Minoa Market 49,SME,Western Greece,Patras,2023-07-22,Yes,Partner
+C050,Blue Harbor Homes 50,Residential,Attica,Marousi,2022-02-03,Yes,Branch
+C051,Thessaly Dairy 51,Residential,Eastern Macedonia & Thrace,Drama,2024-01-02,Yes,Call Center
+C052,Metro Labs 52,Small Business,Crete,Heraklion,2021-02-11,No,Sales Agent
+C053,Pelagos Hotel 53,Industrial,Thessaly,Trikala,2024-10-18,No,Branch
+C054,Metro Labs 54,Industrial,Thessaly,Karditsa,2021-10-10,No,Sales Agent
+C055,Helios Textiles 55,SME,Crete,Agios Nikolaos,2021-06-15,No,Partner
+C056,Athena Motors 56,Small Business,Thessaly,Trikala,2024-07-24,Yes,Call Center
+C057,Metro Labs 57,SME,Central Macedonia,Thessaloniki,2021-04-10,Yes,Website
+C058,Thessaly Dairy 58,Residential,Eastern Macedonia & Thrace,Alexandroupoli,2021-03-06,No,Branch
+C059,Green Corner Cafe 59,Small Business,Thessaly,Larissa,2024-06-06,Yes,Branch
+C060,Blue Harbor Homes 60,SME,Crete,Heraklion,2022-12-01,Yes,Website

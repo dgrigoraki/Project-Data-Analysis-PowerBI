@@ -1,0 +1,7 @@
+TariffID,EnergyType,TariffName,BaseFee_EUR,UnitRate_EUR_per_kWh,ContractMonths,GreenFlag
+EL-FIX12,Electricity,Electricity Fixed 12M,5.5,0.145,12,No
+EL-VAR,Electricity,Electricity Variable,4.2,0.132,1,No
+EL-GREEN,Electricity,Electricity Green,6,0.151,12,Yes
+GAS-FIX,Gas,Gas Fixed Winter,3.8,0.071,12,No
+GAS-VAR,Gas,Gas Variable,3.1,0.066,1,No
+DUAL-SAVE,Dual,Dual Energy Saver,7.5,0.118,24,No
